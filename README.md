@@ -19,17 +19,17 @@ I will link to each project that I complete. Some will be in this same repo, som
 Numbers
 ---------
 
-[**Range Set**](https://github.com/sunwooz/Projects/blob/master/Numbers/range_set.py) - Combine the range of pairs into non-repeating pairs.
+**Range Set**- Combine the range of pairs into non-repeating pairs.
 
 **Find PI to the Nth Digit** – Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
-[**Fibonacci Sequence**](https://github.com/sunwooz/Projects/blob/master/Numbers/fibonacci.py) – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+**Fibonacci Sequence** – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
-[**Prime Factorization**](https://github.com/sunwooz/Projects/blob/master/Numbers/primefactor.py) – Have the user enter a number and find all Prime Factors (if there are any) and display them.
+**Prime Factorization** – Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
 **Next Prime Number** – Have the program find prime numbers until the user chooses to stop asking for the next one.
 
-[**Find Cost of Tile to Cover W x H Floor**](https://github.com/sunwooz/Projects/blob/master/Numbers/tile.py) – Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
+**Find Cost of Tile to Cover W x H Floor** – Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 
 **Mortgage Calculator** – Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
 
@@ -37,7 +37,7 @@ Numbers
 
 **Binary to Decimal and Back Converter** – Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
 
-[**Calculator**](https://github.com/sunwooz/Projects/blob/master/Numbers/calculator.py) – A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
+**Calculator** – A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
 
 **Unit Converter (temp, currency, volume, mass and more)** – Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion.
 
@@ -54,15 +54,15 @@ Numbers
 Text
 ---------
 
-[**Unique characters**](https://github.com/sunwooz/Projects/blob/master/Text/unique.py) - Make sure all characters in string are unique.
+**Unique characters** - Make sure all characters in string are unique.
 
-[**Reverse a String**](https://github.com/sunwooz/Projects/blob/master/Text/reversestring.py) – Enter a string and the program will reverse it and print it out.
+**Reverse a String** – Enter a string and the program will reverse it and print it out.
 
-[**Pig Latin**](https://github.com/sunwooz/Projects/blob/master/Text/piglatin.py) – Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
+**Pig Latin** – Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
 
-[**Count Vowels**](https://github.com/sunwooz/Projects/blob/master/Text/vowel.py) – Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
+**Count Vowels** – Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
 
-[**Check if Palindrome**](https://github.com/sunwooz/Projects/blob/master/Text/palindrome.py) – Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
+**Check if Palindrome** – Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
 
 **Count Words in a String** – Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.
 
@@ -90,21 +90,26 @@ Text
 
 **Regex Query Tool** – A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular exp****ression against the source text and return any matches or flag errors in the regular exp****ression.
 
+Games
+-----
+
+**Tic Tac Toe** - make a basic tic tac toe game.
+
 Algorithms
 ----------
 
-[**Sort String with ASCII**](https://github.com/sunwooz/Projects/blob/master/Algorithms/sortlist.py) - Sort list of strings using ASCII.
+**Sort String with ASCII** - Sort list of strings using ASCII.
 
-[**Bubble Sort**](https://github.com/sunwooz/Projects/blob/master/Algorithms/bubblesort.py) - Implement bubblesort.
+**Bubble Sort** - Implement bubblesort.
 
-[**Binary Search**](https://github.com/sunwooz/Projects/blob/master/Algorithms/binary_search.py) - Implement Binary Search.
+**Binary Search** - Implement Binary Search.
 
 Data Structures
 ---------------
 
-[**Binary Tree**](https://github.com/sunwooz/Projects/blob/master/DataStructures/binary_tree.py) - Implement a binary tree.
+**Binary Tree** - Implement a binary tree.
 
-[**Stacks**](https://github.com/sunwooz/Projects/blob/master/DataStructures/stack.py) - Implement Stacks.
+**Stacks** - Implement Stacks.
 
 Networking
 ---------
@@ -178,8 +183,6 @@ Classes
 
 Threading
 ---------
-
-[**Threading I/O Speed Test**](https://github.com/sunwooz/Projects/blob/master/Threading/threadingtest.py) - Tested if threading actually improves I/O time.
 
 **Create A Progress Bar for Downloads** – Create a progress bar for applications that can keep track of a download in progress. The progress bar will be on a separate thread and will communicate with the main thread using delegates.
 
