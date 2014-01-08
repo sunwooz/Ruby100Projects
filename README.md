@@ -1,4 +1,4 @@
-Sunwoo's Mega Project List (Python)
+Sunwoo's Mega Project List (Ruby)
 ========
 
 Trying to complete all projects from [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/).
@@ -7,7 +7,7 @@ Trying to complete all projects from [Martyr2’s Mega Project List](http://www.
 
 Some details:
 
-* I will use Python to solve these. Why? Because I want to learn the language quickly.
+* I will use Ruby to solve these. Why? Because I want to learn the language quickly.
 * The projects will not be made in the order posted.
 * I may not be able to complete all of them. 
 * My method of solving them may not be the best.
