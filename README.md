@@ -54,7 +54,7 @@ Numbers
 Text
 ---------
 
-**Unique characters** - Make sure all characters in string are unique.
+[**Unique characters**](https://github.com/sunwooz/Ruby100Projects/blob/master/Text/unique.rb) - Make sure all characters in string are unique.
 
 **Reverse a String** – Enter a string and the program will reverse it and print it out.
 
