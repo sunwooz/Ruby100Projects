@@ -25,7 +25,7 @@ class Fibo
 		@array_two = [1, 1]
 		current_number = 0
 		i = 0
-		until current_number < number
+		until current_number >= number
 			current_number = @array_two[i] + @array_two[i+1]
 			@array_two.push(current_number)
 			i+=1
@@ -37,5 +37,5 @@ end
 
 fibo = Fibo.new
 
-fibo.to_number(1000)
+fibo.to_number(144)
 fibo.to_nth(12)
